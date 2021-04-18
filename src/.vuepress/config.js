@@ -1,7 +1,7 @@
 const NAV = [
-	{ text: '1. HTML & CSS', link: '/module-html/' },
-	{ text: '2. JavaScript', link: '/module-js/' },
-	// { text: '3. PHP & MySQL', link: '/module-php/' },
+	{ text: '1. HTML & CSS', link: '/themes/html/' },
+	{ text: '2. JavaScript', link: '/themes/js/' },
+	// { text: '3. PHP & MySQL', link: '/themes/php/' },
 ];
 
 const SIDEBAR_HTML = [
@@ -198,14 +198,14 @@ module.exports = {
 	themeConfig: {
 		nav: NAV,
 		sidebar: {
-			'/module-html/': SIDEBAR_HTML,
-			'/module-js/': SIDEBAR_JS,
-			'/module-php/': SIDEBAR_PHP,
+			'/themes/html/': SIDEBAR_HTML,
+			'/themes/js/': SIDEBAR_JS,
+			'/themes/php/': SIDEBAR_PHP,
 		},
 		search: false,
 	},
 	base: '/training/',
-	title: 'Школа программирования',
+	title: 'Dev Pandaren',
 	head: [
 		['link', { rel: 'icon', href: '/favicon.svg' }],
 		['meta', { name: 'theme-color', content: '#3eaf7c' }],
