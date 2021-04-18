@@ -10,11 +10,20 @@ const NAV = [
 	// { text: '3. PHP & MySQL', link: PATH_PHP },
 ];
 
+const getSidebarObj = arr => {
+	return arr.map(element => {
+		return {
+			...element,
+			collapsable: false
+		}
+	})
+}
+
 module.exports = {
 	themeConfig: {
 		nav: NAV,
 		sidebar: {
-			[PATH_HTML]: SIDEBAR_HTML,
+			[PATH_HTML]: getSidebarObj(SIDEBAR_HTML),
 			[PATH_JS]: SIDEBAR_JS,
 			[PATH_PHP]: SIDEBAR_PHP,
 		},
