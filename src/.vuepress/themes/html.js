@@ -1,7 +1,7 @@
 
-const SIDEBAR_HTML = [
+const THEME_HTML = [
 	{
-		title: '1. Введение',
+		title: 'Введение',
 		children: [
 			['intro/intro',     'Введение и основные понятия'],
 			['intro/structure', 'Структура HTML файла'],
@@ -9,7 +9,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '2. Основы',
+		title: 'Основы',
 		children: [
 			['basic/colors',          'Цвета CSS (стандартные, hex, rgb)'],
 			['basic/inline',          'Строчные элементы (span)'],
@@ -21,7 +21,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '3. Основные элементы',
+		title: 'Основные элементы',
 		children: [
 			['elements/text',  'Текст и шрифты'],
 			['elements/img',   'Изображения'],
@@ -33,7 +33,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '4. Разметка',
+		title: 'Разметка',
 		children: [
 			['layout/float',             'Float'],
 			['layout/inline-block',      'Inline Block'],
@@ -43,7 +43,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '5. Преобразования',
+		title: 'Преобразования',
 		children: [
 			['transform/transition',  'transition'],
 			['transform/transform',   'transform'],
@@ -55,7 +55,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '6. CSS-свойства',
+		title: 'CSS-свойства',
 		children: [
 			['properties/box-sizing', 'box-sizing'],
 			['properties/display',    'display'],
@@ -65,7 +65,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '7. Селекторы',
+		title: 'Селекторы',
 		children: [
 			['selectors/selector-basic', 'class, id, tag'],
 			['selectors/selector-attr',  'attr'],
@@ -73,7 +73,7 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '8. Псевдоклассы и псевдоэлементы',
+		title: 'Псевдоклассы и псевдоэлементы',
 		children: [
 			['pseudo/pseudo-hover',         'hover, focus, active, ...'],
 			['pseudo/pseudo-child-element', 'first-child, nth-child, ...'],
@@ -81,14 +81,14 @@ const SIDEBAR_HTML = [
 		]
 	},
 	{
-		title: '9. HTML-теги',
+		title: 'HTML-теги',
 		children: [
 			['tags/semantic-tags', 'Семантические теги'],
 			['tags/fieldset',      'fieldset'],
 		]
 	},
 	{
-		title: '10. Инструменты',
+		title: 'Инструменты',
 		children: [
 			['tools/yandex-map',        'Яндекс Карты и Google Maps'],
 			['tools/yandex-metrika',    'Яндекс Метрика'],
@@ -111,15 +111,15 @@ const SIDEBAR_HTML = [
 	//----------------------------------------------
 	//----------------------------------------------
 
-	{
-		title: '11. Прочее',
-		children: [
-			['other/timeweb',         'Timeweb'],
-			['other/adaptive-menu',   'Адаптивное меню'],
-			['other/font-awesome',    'Font Awesome'],
-			['other/linear-gradient', 'Linear Gradient'],
-		]
-	},
+	// {
+	// 	title: 'Прочее',
+	// 	children: [
+	// 		['other/timeweb',         'Timeweb'],
+	// 		['other/adaptive-menu',   'Адаптивное меню'],
+	// 		['other/font-awesome',    'Font Awesome'],
+	// 		['other/linear-gradient', 'Linear Gradient'],
+	// 	]
+	// },
 ];
 
 // Препроцессоры HTML (Pug)
@@ -129,4 +129,4 @@ const SIDEBAR_HTML = [
 // Parallax эффект на CSS
 // Определение геолокации
 
-module.exports = SIDEBAR_HTML;
+module.exports = THEME_HTML;
