@@ -23,23 +23,19 @@
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-### Шрифты
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-- [https://webfonts.pro](https://webfonts.pro/) Шрифты
-- [https://bestfonts.pro](https://bestfonts.pro/) Шрифты
-- [https://fonts.google.com/icons?selected=Material+Icons:bookmark_border]([https://fonts.google.com/) Google Fonts (Material Icons)
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 ### Изображения
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 - [https://tinypng.com](https://tinypng.com/) Сжатие изображений
 - [https://compressjpeg.com](https://compressjpeg.com/ru/) Сжатие изображений
+- [https://imgbb.com](https://imgbb.com/) Хостинг изображений
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 ### Анимации
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+- [https://greensock.com/gsap/](https://greensock.com/gsap/) Professional-grade JavaScript animation for the modern web
 - [https://loading.io](https://loading.io/) Библиотека прелоадеров
 - [https://maxwellito.github.io](https://maxwellito.github.io/vivus/) SVG анимация
+- [http://lazylinepainter.info/](http://lazylinepainter.info/) SVG Animation
 - [https://hammerjs.github.io](https://hammerjs.github.io/) Анимации
+- [http://bouncejs.com/](http://bouncejs.com/) CSS Animation

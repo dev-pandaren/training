@@ -13,21 +13,20 @@ const THEME_LINKS = [
         title: 'Общее',
         children: [
             ['common/formatters',   'Форматирование кода'],
+            ['common/ui-kit',       'Ui-Kit'],
         ]
     },
     {
         title: 'Сервисы',
         children: [
             ['services/online-editors', 'Онлайн редакторы кода'],
-            ['services/hosting',        'Хостинги'],
+            ['services/api',            'API'],
+            ['services/deploy',         'Деплой'],
+            ['services/builders',       'Сборщики'],
+            ['services/cms',            'CMS'],
+            ['services/3d',             '3D'],
         ]
     },
-    // {
-	// 	title: 'Инструменты',
-	// 	children: [
-	// 		['instruments/main', ''],
-	// 	]
-	// },
 ];
 
 module.exports = THEME_LINKS;
