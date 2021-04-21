@@ -1,5 +1,9 @@
 # Общее
 
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+### Общее
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 - [https://webref.ru](https://webref.ru/) Справочник по HTML и CSS
 - [https://caniuse.com](https://caniuse.com/) Проверка поддержки CSS-свойств браузерами
 - [https://autoprefixer.github.io](https://autoprefixer.github.io/ru/) Автопрефиксер
