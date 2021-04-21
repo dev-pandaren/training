@@ -1,4 +1,4 @@
-# Курс HTML и CSS
+# HTML и CSS
 
 ::: tip <h3>🐼 Hello</h3>
 ```html

@@ -1,4 +1,4 @@
-# Курс JavaScript
+# JavaScript
 
 ::: tip <h3>🐼 Hello</h3>
 ```js

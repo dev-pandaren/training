@@ -70,8 +70,9 @@ div {
 	gap: 20px;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: 200px 200px;
-	grid-template-areas: "header  header  menu"
-						 "content content .";
+	grid-template-areas:
+		"header  header  menu"
+		"content content .";
 }
 
 .header  { grid-area: header; }

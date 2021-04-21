@@ -44,8 +44,8 @@ const THEME_JS = [
 		title: 'Сборщики и модули',
 		children: [
 			['bundlers/nodejs',       'Node.js и NPM'],
-			['bundlers/gulp',         'Сборщик Gulp'],
-			['bundlers/webpack',      'Сборщик Webpack'],
+			// ['bundlers/gulp',         'Сборщик Gulp'],
+			// ['bundlers/webpack',      'Сборщик Webpack'],
 			['bundlers/parcel',       'Сборщик Parcel'],
 			['bundlers/modules',      'Модульная система'],
 			['bundlers/modules-es6',  'ES-6 модули в JavaScript'],
@@ -72,9 +72,9 @@ const THEME_JS = [
 		title: 'Инструменты',
 		children: [
 			['instruments/canvas',               'Рисование на Canvas'],
-			['instruments/chrome-sources',       'Отладка в браузере Chrome'],
+			// ['instruments/chrome-sources',       'Отладка в браузере Chrome'],
 			['instruments/jquery',               'jQuery и jQuery UI'],
-			['instruments/libs',                 'Подключение сторонних скриптов'],
+			// ['instruments/libs',                 'Подключение сторонних скриптов'],
 		]
 	},
 ];
