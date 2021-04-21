@@ -34,7 +34,19 @@ export default {
 .column-fix {
 	width: 200px;
 }
+
+@media screen and (max-width: 1070px) {
+    .wrapper {
+        flex-wrap: wrap;
+    }
+    .column-half {
+        width: 100%;
+    }
+    .column-grow {
+        width: 100%;
+    }
+    .column-fix {
+        width: 100%;
+    }
+}
 </style>
-
-
-

@@ -1,4 +1,4 @@
-# Хостинги
+# Деплой
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 ### Приложения
