@@ -4,7 +4,7 @@ const THEME_PHP = require('./themes/php');
 const THEME_LINKS = require('./themes/links');
 
 const { PATH_HTML, PATH_JS, PATH_PHP, PATH_LINKS } = require('./constants/paths');
-const getSidebarObj = require('./utils/sidebar');
+const getSidebar = require('./utils/sidebar');
 
 const NAV = [
 	{ text: 'HTML & CSS', link: PATH_HTML },
@@ -17,10 +17,10 @@ module.exports = {
 	themeConfig: {
 		nav: NAV,
 		sidebar: {
-			[PATH_HTML]: getSidebarObj(THEME_HTML),
-			[PATH_JS]: getSidebarObj(THEME_JS),
-			[PATH_PHP]: getSidebarObj(THEME_PHP),
-			[PATH_LINKS]: getSidebarObj(THEME_LINKS),
+			[PATH_HTML]: getSidebar(THEME_HTML),
+			[PATH_JS]: getSidebar(THEME_JS),
+			[PATH_PHP]: getSidebar(THEME_PHP),
+			[PATH_LINKS]: getSidebar(THEME_LINKS),
 		},
 		search: false,
 	},
@@ -37,4 +37,3 @@ module.exports = {
 		'@vuepress/plugin-medium-zoom',
 	]
 }
-
