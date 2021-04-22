@@ -7,7 +7,7 @@ const { PATH_HTML, PATH_JS, PATH_PHP, PATH_LINKS } = require('./constants/paths'
 const getSidebar = require('./utils/sidebar');
 
 const NAV = [
-	{ text: 'HTML & CSS', link: PATH_HTML },
+	{ text: 'HTML и CSS', link: PATH_HTML },
 	{ text: 'JavaScript', link: PATH_JS },
 	{ text: 'Ссылки',     link: PATH_LINKS },
 	// { text: 'PHP & MySQL', link: PATH_PHP },

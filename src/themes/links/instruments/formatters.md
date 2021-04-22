@@ -1,4 +1,4 @@
-# Форматирование кода
+# Форматтеры
 
 - [https://prettier.io/](https://prettier.io/) Prettier
 - [https://beautifier.io](https://beautifier.io/) Beautifier
