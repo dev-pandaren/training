@@ -22,7 +22,7 @@ module.exports = {
 			[PATH_PHP]: getSidebar(THEME_PHP),
 			[PATH_LINKS]: getSidebar(THEME_LINKS),
 		},
-		search: false,
+		search: true,
 	},
 	base: '/training/',
 	title: 'Dev Pandaren Training',
