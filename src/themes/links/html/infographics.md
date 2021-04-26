@@ -18,9 +18,6 @@
 - [https://teenyicons.com/](https://teenyicons.com/) TeenyIcons
 - [https://tablericons.com/](https://tablericons.com/) TablerIcons
 
-### Прелоадеры
-- [https://nisnom.com/preloadery-loader/](https://nisnom.com/preloadery-loader/) Прелоадеры
-
 ### Шрифты
 - [https://webfonts.pro](https://webfonts.pro/) Шрифты
 - [https://bestfonts.pro](https://bestfonts.pro/) Шрифты

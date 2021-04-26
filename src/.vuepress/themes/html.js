@@ -93,7 +93,7 @@ const THEME_HTML = [
 			// ['tools/yandex-map',        'Яндекс Карты и Google Maps'],
 			// ['tools/yandex-metrika',    'Яндекс Метрика'],
 			// ['tools/online-editors',    'Онлайн редакторы кода'],
-			['tools/preproc',           'Препроцессоры CSS (Sass'],
+			['tools/preproc',           'Препроцессоры CSS: Sass'],
 			// ['tools/emmet',             'Плагин Emmet'],
 			['tools/bootstrap',         'Bootstrap'],
 			// ['tools/bem',               'БЭМ и другие методологии верстки'],

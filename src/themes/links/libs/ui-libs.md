@@ -10,6 +10,7 @@
 ### Слайдеры
 - [http://kenwheeler.github.io/slick/](http://kenwheeler.github.io/slick/) Slick Slider
 - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/) Owl Carousel
+- [https://swiperjs.com/](https://swiperjs.com/) SwiperJS
 
 ### Прочее
 - [https://jonsuh.com/hamburgers/](https://jonsuh.com/hamburgers/) Hamburgers Animation
