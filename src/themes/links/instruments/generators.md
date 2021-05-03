@@ -14,3 +14,5 @@
 - [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/) CSS Grid Generator
 - [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/) CSS clip-path maker
 - [https://getwaves.io/](https://getwaves.io/) Get Waves
+- [https://neumorphism.io/](https://neumorphism.io/) Neumorphism
+- [https://www.blobmaker.app/](https://www.blobmaker.app/) SVG окружности

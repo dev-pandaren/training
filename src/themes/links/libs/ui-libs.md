@@ -17,3 +17,5 @@
 - [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/) Particles System
 - [https://tympanus.net/Development/ParticleEffectsButtons/](https://tympanus.net/Development/ParticleEffectsButtons/) ParticleEffectsButtons
 - [http://flexboxgrid.com/](http://flexboxgrid.com/) Flexbox Grid
+- [https://codyhouse.co/gem/360-degrees-product-viewer](https://codyhouse.co/gem/360-degrees-product-viewer) 360 Degrees Product Viewer
+- [https://arwes.dev/](https://arwes.dev/) Futuristic Sci-Fi UI Web Framework

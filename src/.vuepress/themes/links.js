@@ -11,7 +11,8 @@ const THEME_LINKS = [
     {
         title: 'Общее',
         children: [
-            ['common/learn', 'Учебники и справочники'],
+            ['common/common', 'Общее'],
+            ['common/learn',  'Учебники и справочники'],
         ]
     },
     {

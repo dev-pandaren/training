@@ -5,6 +5,7 @@
 - [https://autoprefixer.github.io](https://autoprefixer.github.io/ru/) Автопрефиксер
 - [https://www.responsinator.com](https://www.responsinator.com/) Эмулятор мобильного устройства
 - [http://shpargalkablog.ru/2010/12/napisat-kod-tekstom.html](http://shpargalkablog.ru/2010/12/napisat-kod-tekstom.html) Экранирование HTML-тегов
+- [https://github.com/zalog/placeholder-loading](https://github.com/zalog/placeholder-loading) Placeholder loading
 
 ### Цвета
 - [https://colorscheme.ru](https://colorscheme.ru/color-converter.html) Конвертер цветов
@@ -15,6 +16,7 @@
 ### Изображения
 - [https://tinypng.com](https://tinypng.com/) Сжатие изображений
 - [https://compressjpeg.com](https://compressjpeg.com/ru/) Сжатие изображений
+- [https://bulkresizephotos.com/ru](https://bulkresizephotos.com/ru) Оптимизация изображений
 - [https://imgbb.com](https://imgbb.com/) Хостинг изображений
 
 ### Анимации
@@ -24,3 +26,4 @@
 - [http://lazylinepainter.info/](http://lazylinepainter.info/) SVG Animation
 - [https://hammerjs.github.io](https://hammerjs.github.io/) Анимации
 - [http://bouncejs.com/](http://bouncejs.com/) CSS Animation
+- [http://animation.kaustubhmenon.com/](http://animation.kaustubhmenon.com/) CSS Animation Library
