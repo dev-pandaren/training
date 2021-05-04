@@ -6,6 +6,7 @@
 - [https://coverr.co](https://coverr.co/) Стоковые видео
 - [https://getemoji.com](https://getemoji.com/#animals-nature) Эмодзи
 - [https://www.pngegg.com/](https://www.pngegg.com/) PNG Images
+- [https://forthebadge.com/](https://forthebadge.com/) Badgets
 
 ### Иконки
 - [https://www.flaticon.com](https://www.flaticon.com/) FlatIcon

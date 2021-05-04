@@ -4,6 +4,7 @@
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Игра Flexbox Froggy](https://flexboxfroggy.com/#ru)
 - [Flexbugs](https://github.com/philipwalton/flexbugs)
+- [Flexbox Playground](https://www.outpan.com/app/1b970b008f/flexbox-playground)
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
@@ -233,7 +234,7 @@
 	align-self: flex-end;         /* Флексы выравниваются в конце поперечной оси контейнера */
 	align-self: center;           /* Флексы выравниваются по линии поперечной оси */
 	align-self: stretch;          /* Флексы растягиваются таким образом, чтобы занять всё доступное пространство контейнера */
-	align-self: baseline;         /* Флексы выравниваются по их базовой линии (по нижней части параграфа) */	
+	align-self: baseline;         /* Флексы выравниваются по их базовой линии (по нижней части параграфа) */
 }
 ```
 
@@ -250,5 +251,5 @@
 	margin-top: auto;
 	margin-right: auto;
 	margin-bottom: auto;
-}	
+}
 ```

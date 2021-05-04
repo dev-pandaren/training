@@ -17,7 +17,9 @@
 - [https://tinypng.com](https://tinypng.com/) Сжатие изображений
 - [https://compressjpeg.com](https://compressjpeg.com/ru/) Сжатие изображений
 - [https://bulkresizephotos.com/ru](https://bulkresizephotos.com/ru) Оптимизация изображений
+- [https://squoosh.app/](https://squoosh.app/) Оптимизация изображений
 - [https://imgbb.com](https://imgbb.com/) Хостинг изображений
+- [https://imagemagick.org/script/index.php](https://imagemagick.org/script/index.php) ImageMagick
 
 ### Анимации
 - [https://greensock.com/gsap/](https://greensock.com/gsap/) Professional-grade JavaScript animation for the modern web
@@ -27,3 +29,4 @@
 - [https://hammerjs.github.io](https://hammerjs.github.io/) Анимации
 - [http://bouncejs.com/](http://bouncejs.com/) CSS Animation
 - [http://animation.kaustubhmenon.com/](http://animation.kaustubhmenon.com/) CSS Animation Library
+- [http://dynamicsjs.com/](http://dynamicsjs.com/) JavaScript library to create physics-based animations
