@@ -1,6 +1,9 @@
 # Хостинг проектов GitHub
 
-## Работа с GitHub
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+### Работа с GitHub
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 1. Зарегистрироваться на [https://github.com/](https://github.com/)
 2. Создать новый проект на GitHub
 3. Установить [GitHub Desktop](https://desktop.github.com/)
@@ -8,7 +11,10 @@
 5. Подключить [GitHub Pages](https://pages.github.com/) к проекту на GitHub
 6. Скорректировать `README.md` с помощью [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Команды Git
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+### Команды Git
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 ### Инициализация
 ```bash
@@ -55,5 +61,8 @@ git checkout -b НазваниеВетки
 git merge НазваниеВетки
 ```
 
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 ## Ссылки
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 - [[playlist] GitHub для новичков](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0)
