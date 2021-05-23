@@ -1,5 +1,7 @@
 # Хостинг проектов GitHub
 
+- [[playlist] GitHub для новичков](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0)
+
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 ### Работа с GitHub
@@ -16,13 +18,13 @@
 ### Команды Git
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
-### Инициализация
+#### Инициализация
 ```bash
 # Инициализация репозитория
 git init
 ```
 
-### Получение данных
+#### Получение данных
 ```bash
 # Клонирование репозитория
 git clone https://github.com/AccountName/repo-name.git
@@ -34,7 +36,7 @@ git fetch
 git pull
 ```
 
-### Отправка данных
+#### Отправка данных
 ```bash
 # Индексирование всех измененных файлов
 git add .
@@ -46,7 +48,7 @@ git commit -m 'text'
 git push
 ```
 
-### Работа с ветками
+#### Работа с ветками
 ```bash
 # Список веток с указанием текущей
 git branch
@@ -60,9 +62,3 @@ git checkout -b НазваниеВетки
 # Слияние текущей и указанной ветки
 git merge НазваниеВетки
 ```
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-## Ссылки
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-- [[playlist] GitHub для новичков](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0)
