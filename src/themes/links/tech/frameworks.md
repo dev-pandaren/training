@@ -7,6 +7,10 @@
 - [http://reactcommunity.org/react-transition-group/css-transition](http://reactcommunity.org/react-transition-group/css-transition) React CSSTransition
 - [https://usehooks.com/](https://usehooks.com/) useHooks
 - [https://ru.svelte.dev/](https://ru.svelte.dev/) Svelte
+- [https://nextjs.org/](https://nextjs.org/) Next.js
+- [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
+- [https://www.gatsbyjs.com/](https://www.gatsbyjs.com/) Gatsby
+- [https://lerna.js.org/](https://lerna.js.org/) Lerna: A tool for managing JavaScript projects with multiple packages
 
 ### Генераторы
 - [https://single-spa.js.org/docs/create-single-spa/](https://single-spa.js.org/docs/create-single-spa/) create-single-spa

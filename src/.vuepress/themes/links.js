@@ -28,7 +28,7 @@ const THEME_LINKS = [
     {
         title: 'Библиотеки',
         children: [
-            ['libs/ui-libs',      'Ui-библиотеки'],
+            ['libs/ui-libs', 'Ui-библиотеки'],
         ]
     },
     {
