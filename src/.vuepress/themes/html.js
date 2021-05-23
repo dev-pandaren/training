@@ -101,7 +101,7 @@ const THEME_HTML = [
 			['tools/chrome-dev-tools',  'Chrome DevTools'],
 			// ['tools/photoshop',         'Adobe Photoshop для верстальщика'],
 			// ['tools/vk',                'Виджеты ВКонтакте'],
-			// ['tools/github',            'Хостинг проектов GitHub'],
+			['tools/github',            'Хостинг проектов GitHub'],
 			// ['tools/vendor',            'Вендорные префиксы. Автопрефиксер'],
 			['tools/structure-project', 'Организация структуры проекта'],
 		]
