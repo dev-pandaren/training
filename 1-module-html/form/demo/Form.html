@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Пример</title>
+	<link href="style.css" rel=stylesheet type="text/css"/>
+	</head>
+	<body>
+		
+		<form class="container" name="Anket">
+
+			<h1>Анкета посетителя ресторана</h1>
+			<div class="contacts">
+				<h2>Контактная информация</h2>
+					<div class="box">
+						<span>Имя</span>
+						<input type="text">
+					</div>
+					<div class="box">
+						<span>Телефон</span>
+						<input type="tel">
+					</div>
+					<div class="box">
+						<span>Email</span>
+						<input type="email">
+					</div>
+					<div class="box">
+						<span>Дата посещения</span>
+						<input type="date">
+					</div>
+			</div>
+
+			<div class="person">
+				<h2>Персональная информация</h2>
+				<div class="box">
+					<span>Возраст</span>
+					<input type="number"  min="1" max="100">
+				</div>
+				<div class="box">
+					<span>Любимая кухня</span>
+					<select name="" id="">
+						<option>Русская</option>
+						<option>Восточная</option>
+						<option>Европейская</option>
+					</select>
+				</div>
+				<div class="box">
+					<span>Предпочтения</span>
+					<textarea  rows="4"></textarea>
+				</div>
+			</div>
+
+			<div class="questions">
+				<h2>Оценка нашего заведения</h2>
+				<h3>Почему вы выбрали наше заведение?</h3>
+				<div class="wrap">
+					<input type="checkbox" id="choice1">
+					<label for="choice1">Недалеко от дома/работы</label>
+				</div>
+				<div class="wrap">
+					<input type="checkbox" id="choice2">
+					<label for="choice2">
+						Увидел рекламу
+
+					</label>
+				</div>
+				<div class="wrap">
+					<input type="checkbox" id="choice3">
+					<label for="choice3">
+						Посоветовали
+					</label>
+				</div>
+				<div class="wrap">
+					<input type="checkbox" id="choice4">
+					<label for="choice4">
+						Оптимальное соотношение цены и качества
+					</label>
+				</div>
+				<h3>Вы будете рекомендовать наше заведение своим знакомым?</h3>
+				<div class="wrap">
+					<input type="radio" name="YoN" id="yes">
+					<label for="yes">Да</label>
+				</div>
+				<div class="wrap">
+					<input type="radio" name="YoN" id="not">
+					<label for="not">Нет</label>
+				</div>
+			</div>
+			<input type="submit">
+		</form>
+
+	</body>
+</html>

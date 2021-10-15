@@ -1,9 +1,44 @@
 
-## Методичка
-- Разделить темы, если там больше одной темы
-- Заменить ссылки личные, на ссылки только для школы
+### Домашнее задание по курсу HTML и CSS
+- [Селекторы и теги](1-module-html/selectors-tags/readme.md)
+- [Текст и изображения](1-module-html/text-img/readme.md)
+- [Прозрачность, блочные и строчные элементы](1-module-html/opacity-block/readme.md)
+- [Flexbox](1-module-html/flexbox/readme.md)
+- [Создание меню (ссылки, списки, hover, transition)](1-module-html/menu/readme.md)
+- [Верстка секции "Header"](1-module-html/header/readme.md)
+- [Position](1-module-html/layout-position/readme.md)
+- [Таблицы](1-module-html/table/readme.md)
+- [Chrome DevTools](1-module-html/chrome-dev-tools/readme.md)
+- [Псевдоэлементы before и after](1-module-html/before-after/readme.md)
+- [Видео](1-module-html/layout-video/readme.md)
+- [Формы](1-module-html/form/readme.md)
+- [Адаптивность и CSS Grid](1-module-html/grid/readme.md)
+- [Трансформация и фильтры](1-module-html/transform-filter/readme.md)
+- [Photoshop и Pixel Perfect](1-module-html/photoshop/readme.md)
+- [Github и Github Pages](1-module-html/github/readme.md)
+- [Анимация](1-module-html/animation/readme.md)
+- [Clip-path](1-module-html/clip-path/readme.md)
+- [Bootstrap](1-module-html/bootstrap/readme.md)
+- [Font Awesome](1-module-html/font-awesome/readme.md)
+- [Препроцессоры и онлайн-редакторы](1-module-html/sass-codesandbox/readme.md)
+- [БЭМ](1-module-html/bem/readme.md)
+- [CSS Shapes и SVG](1-module-html/svg/readme.md)
+- [Вёрстка страниц](1-module-html/layout/readme.md)
 
-## Доработки
-- Добавление HTML в пункты сайдбара
-- Добавить закрытую страницу `Config` для демонстрации виджетов
-- Добавить поиск. https://vuepress.vuejs.org/theme/default-theme-config.html#algolia-search
+---
+
+### Домашнее задание по курсу JavaScript
+- [Введение. Установка VSCode](2-module-js/vscode/readme.md)
+- [Виды кавычек, вывод сообщений пользователю, условные операторы](2-module-js/alert/readme.md)
+- [Методы innerText и innerHTML, Функции, События](2-module-js/functions/readme.md)
+- [Массивы и циклы](2-module-js/array/readme.md)
+- [Атрибуты, работа с CSS](2-module-js/attr/readme.md)
+- [Объекты](2-module-js/objects/readme.md)
+- [Классы](2-module-js/class/readme.md)
+- [Циклы для перебора массивов forEach, filter, map, every/some](2-module-js/foreach/readme.md)
+- [Local Storage](2-module-js/local-storage/readme.md)
+- [Методы работы с массивами](2-module-js/array-methods/readme.md)
+- [Асинхронность. Axios](2-module-js/async/readme.md)
+- [Сборщики и ES-6 модули](2-module-js/builders/readme.md)
+- [Дата и время](2-module-js/datetime/readme.md)
+- [Gulp](2-module-js/gulp/readme.md)
