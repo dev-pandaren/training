@@ -11,6 +11,12 @@
 - [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
 - [https://www.gatsbyjs.com/](https://www.gatsbyjs.com/) Gatsby
 - [https://lerna.js.org/](https://lerna.js.org/) Lerna: A tool for managing JavaScript projects with multiple packages
+- [https://svelte.dev/](https://svelte.dev/) Svelte
+- [https://react-slick.neostack.com/](https://react-slick.neostack.com/) React Slick (слайдер)
+- [https://github.com/streamich/react-use](https://github.com/streamich/react-use) React Use
+- [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
+- [https://tanstack.com/](https://tanstack.com/) Tan Stack
+
 
 ### Генераторы
 - [https://single-spa.js.org/docs/create-single-spa/](https://single-spa.js.org/docs/create-single-spa/) create-single-spa
@@ -29,3 +35,6 @@
 - [https://xstate.js.org/](https://xstate.js.org/) XState
 - [https://recoiljs.org/](https://recoiljs.org/) Recoil JS
 - [https://github.com/pmndrs/jotai](https://github.com/pmndrs/jotai) Jotai
+- [https://effector.dev/ru/](https://effector.dev/ru/) Effector
+- [https://github.com/ai/nanostores](https://github.com/ai/nanostores/) Nano Stores
+- [https://reatom.js.org/](https://reatom.js.org/) Reatom

@@ -12,5 +12,7 @@
 ### Node.js
 - [https://replit.com/languages/nodejs](https://replit.com/languages/nodejs) Node.js online editor
 
-### Совместаная работа
+### Проведение технического интервью
 - [https://codeinterview.io/](https://codeinterview.io/) Pair Programming for Interviews
+- [https://code.yandex-team.ru/](https://code.yandex-team.ru/) Yandex Code (не работает в Украине)
+- [https://codeshare.io/](https://codeshare.io/) CodeShare
