@@ -16,7 +16,9 @@
 - [https://github.com/streamich/react-use](https://github.com/streamich/react-use) React Use
 - [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
 - [https://tanstack.com/](https://tanstack.com/) Tan Stack
-
+- [https://github.com/chenglou/react-motion](https://github.com/chenglou/react-motion) React Motion (анимации)
+- [https://github.com/vuejs/petite-vue](https://github.com/vuejs/petite-vue) petite-vue (использование Vue в браузере)
+- [https://github.com/framer/motion](https://github.com/framer/motion) - Framer Motion (библиотека с анимациями для реакта)
 
 ### Генераторы
 - [https://single-spa.js.org/docs/create-single-spa/](https://single-spa.js.org/docs/create-single-spa/) create-single-spa
