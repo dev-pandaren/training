@@ -1,24 +1,32 @@
 # Frameworks
 
+### Server-Side Rendering (SSR)
+- [https://nextjs.org/](https://nextjs.org/) Next.js (SSR для React)
+- [https://nuxtjs.org/](https://nuxtjs.org/) Nuxt.js (SSR для Vue)
+
+### Node.js
+- [https://nestjs.com/](https://nestjs.com/) Nest.js (фреймворк для Node.js)
+
+### React.js
+- [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
+- [https://github.com/streamich/react-use](https://github.com/streamich/react-use) React Use
+- [https://usehooks.com/](https://usehooks.com/) useHooks
+- [http://reactcommunity.org/react-transition-group/css-transition](http://reactcommunity.org/react-transition-group/css-transition) React CSSTransition
+- [https://github.com/framer/motion](https://github.com/framer/motion) - Framer Motion (библиотека с анимациями для React)
+- [https://github.com/chenglou/react-motion](https://github.com/chenglou/react-motion) React Motion (анимации)
+- [https://react-slick.neostack.com/](https://react-slick.neostack.com/) React Slick (слайдер)
+
+### Vue.js
+- [https://github.com/vuejs/petite-vue](https://github.com/vuejs/petite-vue) petite-vue (использование Vue в браузере)
+
 ### Frameworks
 - [https://jamstack.org/](https://jamstack.org/) JAM Stack
+- [https://tanstack.com/](https://tanstack.com/) Tan Stack
 - [https://cxjs.io/](https://cxjs.io/) CRUD Applications and Dashboards
 - [https://vercel.com/](https://vercel.com/) Vercel
-- [http://reactcommunity.org/react-transition-group/css-transition](http://reactcommunity.org/react-transition-group/css-transition) React CSSTransition
-- [https://usehooks.com/](https://usehooks.com/) useHooks
-- [https://ru.svelte.dev/](https://ru.svelte.dev/) Svelte
-- [https://nextjs.org/](https://nextjs.org/) Next.js
-- [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
+- [https://svelte.dev/](https://svelte.dev/) Svelte
 - [https://www.gatsbyjs.com/](https://www.gatsbyjs.com/) Gatsby
 - [https://lerna.js.org/](https://lerna.js.org/) Lerna: A tool for managing JavaScript projects with multiple packages
-- [https://svelte.dev/](https://svelte.dev/) Svelte
-- [https://react-slick.neostack.com/](https://react-slick.neostack.com/) React Slick (слайдер)
-- [https://github.com/streamich/react-use](https://github.com/streamich/react-use) React Use
-- [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
-- [https://tanstack.com/](https://tanstack.com/) Tan Stack
-- [https://github.com/chenglou/react-motion](https://github.com/chenglou/react-motion) React Motion (анимации)
-- [https://github.com/vuejs/petite-vue](https://github.com/vuejs/petite-vue) petite-vue (использование Vue в браузере)
-- [https://github.com/framer/motion](https://github.com/framer/motion) - Framer Motion (библиотека с анимациями для реакта)
 
 ### Генераторы
 - [https://single-spa.js.org/docs/create-single-spa/](https://single-spa.js.org/docs/create-single-spa/) create-single-spa
