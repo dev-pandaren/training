@@ -3,13 +3,23 @@ const THEME_JS        = require('./themes/js');
 const THEME_PHP       = require('./themes/php');
 const THEME_LINKS     = require('./themes/links');
 const THEME_INTERVIEW = require('./themes/interview');
+const THEME_GIT       = require('./themes/git');
 
-const { PATH_HTML, PATH_JS, PATH_PHP, PATH_LINKS, PATH_INTERVIEW } = require('./constants/paths');
+const {
+	PATH_HTML,
+	PATH_JS,
+	PATH_PHP,
+	PATH_LINKS,
+	PATH_INTERVIEW,
+	PATH_GIT,
+} = require('./constants/paths');
+
 const getSidebar = require('./utils/sidebar');
 
 const NAV = [
 	{ text: 'HTML и CSS', link: PATH_HTML },
 	{ text: 'JavaScript', link: PATH_JS },
+	{ text: 'Git',        link: PATH_GIT },
 	{ text: 'Ссылки',     link: PATH_LINKS },
 	{ text: 'Интервью',   link: PATH_INTERVIEW },
 	// { text: 'PHP & MySQL', link: PATH_PHP },
@@ -24,6 +34,7 @@ module.exports = {
 			[PATH_PHP]:       getSidebar(THEME_PHP),
 			[PATH_LINKS]:     getSidebar(THEME_LINKS),
 			[PATH_INTERVIEW]: getSidebar(THEME_INTERVIEW),
+			[PATH_GIT]:       getSidebar(THEME_GIT),
 		},
 		search: true,
 	},
