@@ -12,6 +12,7 @@ const THEME_GIT = [
 			['commands/init',   'Инициализация репозитория'],
 			['commands/commit', 'Работа с файлами'],
 			['commands/reset',  'Отмена изменений файлов'],
+			['commands/push',   'Загрузка репозитория на GitHub'],
 		]
 	},
 ];
