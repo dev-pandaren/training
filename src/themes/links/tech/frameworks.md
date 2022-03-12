@@ -8,6 +8,7 @@
 - [https://nestjs.com/](https://nestjs.com/) Nest.js (фреймворк для Node.js)
 
 ### React.js
+- [https://reactstrap.github.io/](https://reactstrap.github.io/) React Strap (Bootstrap for React)
 - [https://react-query.tanstack.com/](https://react-query.tanstack.com/) React Query
 - [https://github.com/streamich/react-use](https://github.com/streamich/react-use) React Use
 - [https://usehooks.com/](https://usehooks.com/) useHooks
